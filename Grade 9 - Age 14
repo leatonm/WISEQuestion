@@ -1,0 +1,722 @@
+[
+{
+"age": "14",
+"type": "open_ended",
+"question": "What is your go to snack?",
+"example_answer": "Goldfish crackers because I snack while doing homework."
+},
+ {
+"age": "14",
+"type": "open_ended",
+"question": "What is your go to drink?",
+"example_answer": "Cold water with ice because it helps me feel awake."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What food do you want more of at home?",
+  "example_answer": "Pasta because it is easy and filling."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What food do you avoid if you can?",
+  "example_answer": "Mushrooms because I do not like the texture."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What cuisine do you like most?",
+  "example_answer": "Mexican food because it has a lot of flavor."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What is your favorite quick meal?",
+  "example_answer": "Grilled cheese because it is fast and comforting."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What is your favorite sit down meal?",
+  "example_answer": "Steak and potatoes because it feels special."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What is your favorite dessert?",
+  "example_answer": "Ice cream because it always puts me in a good mood."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What food feels like a treat to you?",
+  "example_answer": "Sushi because I do not get it often."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What is one food you want to try soon?",
+  "example_answer": "Ramen from a restaurant because it looks good online."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Sweet or salty?",
+  "example_answer": "Salty because I like chips more than candy."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Spicy or mild?",
+  "example_answer": "Mild because spicy food hurts my mouth."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Hot drinks or cold drinks?",
+  "example_answer": "Cold drinks because they feel refreshing."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Breakfast or dinner?",
+  "example_answer": "Dinner because there is more variety."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Eating out or eating at home?",
+  "example_answer": "Eating out because it feels fun."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Try new foods or stick to favorites?",
+  "example_answer": "Stick to favorites because I know I like them."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Cook or order?",
+  "example_answer": "Order because cooking feels stressful."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Soda or juice?",
+  "example_answer": "Juice because soda feels too fizzy."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Plain water or flavored water?",
+  "example_answer": "Plain water because it tastes clean."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Snacks or full meals?",
+  "example_answer": "Snacks because I eat small amounts often."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What is your favorite color?",
+  "example_answer": "Blue because it feels calm."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What color do you wear most?",
+  "example_answer": "Black because it matches everything."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What style do you like most?",
+  "example_answer": "Casual because it feels comfortable."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What type of shoes do you wear most?",
+  "example_answer": "Sneakers because I walk a lot."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What shoe brand do you like, if any?",
+  "example_answer": "Nike because they last long."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What clothing brand do you like, if any?",
+  "example_answer": "H and M because it is affordable."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What hoodie or hat do you like wearing?",
+  "example_answer": "Oversized hoodies because they feel cozy."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What item do you always want in your bag?",
+  "example_answer": "Lip balm because my lips get dry."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What item do you want to own someday?",
+  "example_answer": "A laptop because it feels useful."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What item do you never want to wear?",
+  "example_answer": "Skinny jeans because they feel tight."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What store do you like shopping at?",
+  "example_answer": "Online stores because I like browsing."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Shopping online or in person?",
+  "example_answer": "Online because it saves time."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Saving money or buying what you want?",
+  "example_answer": "Saving money because I want less stress."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you like spending money on?",
+  "example_answer": "Food because it makes me happy."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you regret buying sometimes?",
+  "example_answer": "Random snacks because I forget about them."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What always feels worth buying?",
+  "example_answer": "Comfortable clothes because I use them often."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What would you like discounts on?",
+  "example_answer": "Food because it adds up."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What would you subscribe to if cheap?",
+  "example_answer": "Music streaming because I listen every day."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What type of membership sounds useful?",
+  "example_answer": "Gym membership because I want to be active."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you look at first before buying?",
+  "example_answer": "Price because I have a budget."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What phone do you use?",
+  "example_answer": "iPhone because my family uses it."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "iPhone or Android?",
+  "example_answer": "iPhone because I am used to it."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What app do you open first each day?",
+  "example_answer": "Messages because I check texts."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What app do you use the most?",
+  "example_answer": "Instagram because I scroll a lot."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What app annoys you sometimes?",
+  "example_answer": "TikTok because I lose track of time."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What type of videos do you watch most?",
+  "example_answer": "Funny videos because they help me relax."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What type of games do you like?",
+  "example_answer": "Sports games because they feel competitive."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What platform do you message on most?",
+  "example_answer": "Text messages because everyone uses them."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What device do you use for school work?",
+  "example_answer": "Laptop because it is easier to type."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What tech skill do you want to learn?",
+  "example_answer": "Video editing because it looks creative."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What show are you watching right now?",
+  "example_answer": "A comedy show because it is light."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What movie do you rewatch?",
+  "example_answer": "Home Alone because it feels familiar."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What music do you listen to most?",
+  "example_answer": "Pop because it is upbeat."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Favorite artist right now?",
+  "example_answer": "Drake because I like his beats."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Favorite music genre?",
+  "example_answer": "Hip hop because it feels energetic."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What kind of books do you like?",
+  "example_answer": "Mystery because I like guessing."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What type of stories do you enjoy?",
+  "example_answer": "Real stories because they feel relatable."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What content do you skip fast?",
+  "example_answer": "Long ads because they are boring."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What content helps you relax?",
+  "example_answer": "Calm music because it slows my mind."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What content motivates you?",
+  "example_answer": "Sports highlights because they inspire me."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What sport do you like watching?",
+  "example_answer": "Basketball because it moves fast."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What sport do you like playing?",
+  "example_answer": "Soccer because I like teamwork."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What activity keeps you active?",
+  "example_answer": "Walking because it clears my head."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What activity do you want to do more?",
+  "example_answer": "Swimming because it feels good."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What time of day feels best?",
+  "example_answer": "Evening because school is done."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What helps you sleep better?",
+  "example_answer": "Music because it relaxes me."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What makes you feel stressed?",
+  "example_answer": "Tests because I worry about grades."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What helps you calm down?",
+  "example_answer": "Deep breathing because it slows me."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "How do you reset after a bad day?",
+  "example_answer": "Watching videos because it distracts me."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What health habit do you want to improve?",
+  "example_answer": "Sleeping earlier because I feel tired."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Alone or group work?",
+  "example_answer": "Alone because I focus better."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Quiet or background noise?",
+  "example_answer": "Quiet because noise distracts me."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "How do you like learning?",
+  "example_answer": "Watching because visuals help."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Short tasks or long projects?",
+  "example_answer": "Short tasks because they feel manageable."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Planning or going with the day?",
+  "example_answer": "Planning because it reduces stress."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What helps you focus?",
+  "example_answer": "Music without lyrics."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What distracts you most?",
+  "example_answer": "My phone because notifications pop up."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Favorite school subject?",
+  "example_answer": "Science because it feels interesting."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Hardest school subject?",
+  "example_answer": "Math because it moves fast."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What would make school easier?",
+  "example_answer": "Clear instructions because I get confused."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What does a good friend do?",
+  "example_answer": "Listens without judging."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What builds trust for you?",
+  "example_answer": "Keeping promises."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What makes you feel respected?",
+  "example_answer": "Being listened to."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What makes you feel ignored?",
+  "example_answer": "People interrupting me."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Who do you feel comfortable around?",
+  "example_answer": "People who joke and relax."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What behavior bothers you?",
+  "example_answer": "Being loud on purpose."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Who do you ask for help?",
+  "example_answer": "My mom because she listens."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What support helps most?",
+  "example_answer": "Someone listening."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What makes you feel included?",
+  "example_answer": "Being invited."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What makes you feel left out?",
+  "example_answer": "Inside jokes."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "One place you want to visit?",
+  "example_answer": "Japan because it looks interesting."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Beach, mountains, city, countryside?",
+  "example_answer": "Beach because it feels relaxing."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Favorite way to travel?",
+  "example_answer": "Car because it feels flexible."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you like doing on trips?",
+  "example_answer": "Trying food."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you dislike about trips?",
+  "example_answer": "Packing because it takes time."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Travel with family, friends, or solo?",
+  "example_answer": "Friends because it feels fun."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "One country you are curious about?",
+  "example_answer": "Italy because of the food."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Language you want to learn?",
+  "example_answer": "Spanish because it feels useful."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What type of home do you want someday?",
+  "example_answer": "House because I like space."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "One thing you want in your future home?",
+  "example_answer": "Big windows."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Job that sounds interesting now?",
+  "example_answer": "Game designer because it feels creative."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Job you would avoid?",
+  "example_answer": "Jobs with long hours."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Indoor, outdoor, or mixed work?",
+  "example_answer": "Mixed because variety helps."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "People, data, tools, animals, kids?",
+  "example_answer": "People because I like interaction."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Skill you want to build this year?",
+  "example_answer": "Public speaking."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Skill you already feel good at?",
+  "example_answer": "Writing because words come easily."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you want to be known for?",
+  "example_answer": "Being reliable."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you want to improve socially?",
+  "example_answer": "Starting conversations."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you want to improve personally?",
+  "example_answer": "Confidence."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What would help confidence this year?",
+  "example_answer": "Positive feedback."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Cause you care about?",
+  "example_answer": "Mental health."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Issue that frustrates you?",
+  "example_answer": "Bullying."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What would you change locally?",
+  "example_answer": "More youth spaces."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Volunteering you would try?",
+  "example_answer": "Animal shelters."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "Volunteering you would avoid?",
+  "example_answer": "Public speaking roles."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "School rule you wish existed?",
+  "example_answer": "Later start times."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "School rule that makes sense?",
+  "example_answer": "Phone limits in class."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you wish adults asked more?",
+  "example_answer": "How I feel."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "What do you wish adults stopped assuming?",
+  "example_answer": "That teens are lazy."
+},
+{
+  "age": "14",
+  "type": "open_ended",
+  "question": "One thing we could help you with this month?",
+  "example_answer": "Staying organized."
+}
+]
