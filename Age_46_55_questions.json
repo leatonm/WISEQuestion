@@ -1,0 +1,722 @@
+[
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What part of your day feels most valuable now?",
+    "example_answer": "Quiet mornings."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What part of your day feels most draining?",
+    "example_answer": "Late meetings."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What routine protects your energy best?",
+    "example_answer": "Walking daily."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What routine feels outdated?",
+    "example_answer": "Late nights."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What habit supports long-term health?",
+    "example_answer": "Consistent sleep."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What habit do you want to reduce?",
+    "example_answer": "Sitting too long."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What habit feels essential now?",
+    "example_answer": "Regular checkups."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What habit feels optional now?",
+    "example_answer": "Overworking."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What daily choice affects your health most?",
+    "example_answer": "Food quality."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What daily choice affects your stress most?",
+    "example_answer": "Scheduling."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health concern feels more real now?",
+    "example_answer": "Joint health."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health concern do you monitor closely?",
+    "example_answer": "Blood pressure."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health topic do you want clearer guidance on?",
+    "example_answer": "Preventative care."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health decision do you research deeply?",
+    "example_answer": "Treatments."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health service do you rely on most?",
+    "example_answer": "Primary care."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health service feels difficult to coordinate?",
+    "example_answer": "Specialist care."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What wellness investment feels worthwhile?",
+    "example_answer": "Physical therapy."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What wellness trend feels unnecessary?",
+    "example_answer": "Extreme diets."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health boundary do you protect firmly?",
+    "example_answer": "Rest time."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What health boundary do you want to strengthen?",
+    "example_answer": "Stress limits."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility defines this stage of life?",
+    "example_answer": "Supporting others."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility feels heavier than before?",
+    "example_answer": "Caregiving."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility feels well managed?",
+    "example_answer": "Finances."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility do you want simplified?",
+    "example_answer": "Paperwork."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility do you want help with?",
+    "example_answer": "Estate planning."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility do you want to delegate?",
+    "example_answer": "Administrative tasks."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What role do you occupy most now?",
+    "example_answer": "Advisor."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What role do you want to reduce?",
+    "example_answer": "Crisis solver."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility gives you pride?",
+    "example_answer": "Stability."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What responsibility feels invisible to others?",
+    "example_answer": "Emotional support."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial priority matters most now?",
+    "example_answer": "Retirement readiness."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial risk concerns you most?",
+    "example_answer": "Healthcare costs."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial system do you trust most?",
+    "example_answer": "Banking."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial system frustrates you?",
+    "example_answer": "Insurance portals."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial habit feels solid?",
+    "example_answer": "Saving."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial habit needs adjustment?",
+    "example_answer": "Spending tracking."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial decision requires expert help?",
+    "example_answer": "Tax strategy."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What financial decision feels intuitive now?",
+    "example_answer": "Budget planning."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What protection matters more than before?",
+    "example_answer": "Long-term care."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What protection feels complex?",
+    "example_answer": "Policy details."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What insurance coverage feels essential now?",
+    "example_answer": "Health insurance."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What insurance topic feels confusing?",
+    "example_answer": "Coverage exclusions."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What insurance review feels overdue?",
+    "example_answer": "Life insurance."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What insurance benefit brings peace of mind?",
+    "example_answer": "Income protection."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What risk feels unacceptable now?",
+    "example_answer": "Coverage gaps."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What protection decision do you want guidance on?",
+    "example_answer": "Coverage levels."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What asset do you want to protect most?",
+    "example_answer": "Home equity."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What asset requires planning attention?",
+    "example_answer": "Retirement accounts."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What legacy decision feels near?",
+    "example_answer": "Will updates."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What legacy topic feels uncomfortable but important?",
+    "example_answer": "End-of-life planning."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What housing feature supports your life best now?",
+    "example_answer": "Accessibility."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What housing maintenance task feels constant?",
+    "example_answer": "Repairs."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What housing cost feels heavy?",
+    "example_answer": "Property taxes."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What housing decision feels final?",
+    "example_answer": "Staying put."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What housing decision feels flexible?",
+    "example_answer": "Downsizing later."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What home service do you value most?",
+    "example_answer": "Reliable internet."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What living arrangement supports your health?",
+    "example_answer": "Quiet neighborhood."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What living arrangement feels limiting?",
+    "example_answer": "Too much upkeep."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What home upgrade would improve daily life?",
+    "example_answer": "Safer layout."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What home feature feels unnecessary now?",
+    "example_answer": "Extra space."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What brand traits earn loyalty at this stage?",
+    "example_answer": "Trustworthiness."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What brand behavior breaks trust immediately?",
+    "example_answer": "Hidden fees."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What service relationship do you maintain long term?",
+    "example_answer": "Financial advisor."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What service do you review regularly?",
+    "example_answer": "Insurance."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What subscription feels essential?",
+    "example_answer": "Cloud storage."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What subscription feels wasteful?",
+    "example_answer": "Unused streaming."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What service do you research carefully?",
+    "example_answer": "Healthcare providers."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What service choice do you default on?",
+    "example_answer": "Utilities."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What vendor relationship matters most?",
+    "example_answer": "Medical professionals."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What vendor relationship feels transactional?",
+    "example_answer": "Retail."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What work responsibility dominates now?",
+    "example_answer": "Oversight."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What work boundary protects health?",
+    "example_answer": "No late calls."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What work pressure feels constant?",
+    "example_answer": "Accountability."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What work flexibility matters most?",
+    "example_answer": "Schedule control."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What career shift feels realistic?",
+    "example_answer": "Advisory roles."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What career shift feels unlikely?",
+    "example_answer": "Starting over."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What skill feels most valuable now?",
+    "example_answer": "Judgment."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What skill do you want to pass on?",
+    "example_answer": "Decision making."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What leadership trait defines you now?",
+    "example_answer": "Calm."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What leadership trait do you want to strengthen?",
+    "example_answer": "Mentorship."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What relationship requires more care now?",
+    "example_answer": "Aging parents."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What relationship provides the most grounding?",
+    "example_answer": "Partner."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What relationship boundary matters most?",
+    "example_answer": "Emotional limits."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What relationship habit reduces stress?",
+    "example_answer": "Clear expectations."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What social obligation drains energy fastest?",
+    "example_answer": "Large gatherings."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What social interaction restores energy?",
+    "example_answer": "Close conversations."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What community support matters more now?",
+    "example_answer": "Healthcare access."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What community resource feels lacking?",
+    "example_answer": "Caregiver support."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What value guides decisions most strongly now?",
+    "example_answer": "Sustainability."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What value feels newly important?",
+    "example_answer": "Longevity."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What does success mean at this stage?",
+    "example_answer": "Stability and health."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What does success no longer require?",
+    "example_answer": "Status chasing."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What progress marker matters most now?",
+    "example_answer": "Wellbeing."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What progress marker feels misleading?",
+    "example_answer": "Busyness."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What fear feels quieter than before?",
+    "example_answer": "Career uncertainty."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What fear feels louder now?",
+    "example_answer": "Health decline."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What lesson keeps repeating at this stage?",
+    "example_answer": "Simplify."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What lesson finally stuck?",
+    "example_answer": "Protect energy."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What future cost do you plan around most?",
+    "example_answer": "Healthcare."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What future cost feels uncertain?",
+    "example_answer": "Long-term care."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What system do you want simplified most?",
+    "example_answer": "Healthcare systems."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What system do you want transparency from?",
+    "example_answer": "Insurance."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What everyday decision do you want easier?",
+    "example_answer": "Appointments."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What everyday decision do you want automated?",
+    "example_answer": "Bill payments."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What long-term habit protects your future?",
+    "example_answer": "Regular reviews."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What long-term habit threatens balance?",
+    "example_answer": "Ignoring rest."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What pace of life feels right now?",
+    "example_answer": "Slower and steady."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What pace feels harmful?",
+    "example_answer": "Constant urgency."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What support do you expect platforms like WISE to provide?",
+    "example_answer": "Clear guidance."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What guidance feels most useful now?",
+    "example_answer": "Straight answers."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What adult system do you want fully understood?",
+    "example_answer": "Retirement planning."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What adult system do you want less friction from?",
+    "example_answer": "Healthcare."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What does peace of mind look like now?",
+    "example_answer": "Preparedness."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What disrupts peace of mind fastest?",
+    "example_answer": "Health surprises."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What do you feel highly capable managing?",
+    "example_answer": "Daily life."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What do you want expert support managing?",
+    "example_answer": "Legacy planning."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What would improve quality of life this year?",
+    "example_answer": "More rest."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What would reduce quality of life quickly?",
+    "example_answer": "Health issues."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What do you want the next decade to focus on?",
+    "example_answer": "Health and family."
+  },
+  {
+    "age": "46_55",
+    "type": "open_ended",
+    "question": "What do you want the next decade to avoid?",
+    "example_answer": "Unnecessary stress."
+  }
+]
