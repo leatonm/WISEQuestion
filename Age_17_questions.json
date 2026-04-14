@@ -1,0 +1,722 @@
+[
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What feels different about life now compared to last year?",
+  "example_answer": "Things feel more real and closer."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What feels final about this year?",
+  "example_answer": "Being in the same school every day."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What feels unfinished as you prepare to leave high school?",
+  "example_answer": "Some friendships."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What feels complete?",
+  "example_answer": "My effort."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What moment made graduation feel real to you?",
+  "example_answer": "Filling out applications."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What moment made you realize you are growing up?",
+  "example_answer": "Making plans without asking first."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What part of high school are you ready to leave behind?",
+  "example_answer": "Constant comparison."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What part of high school will you miss?",
+  "example_answer": "Daily structure."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What experience shaped you the most these past years?",
+  "example_answer": "Managing stress on my own."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What experience surprised you about yourself?",
+  "example_answer": "Handling more than I expected."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What decision do you feel proud of making this year?",
+  "example_answer": "Choosing what feels right for me."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What decision taught you something the hard way?",
+  "example_answer": "Waiting too long to act."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What choice best represents who you are now?",
+  "example_answer": "Setting boundaries."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What choice no longer fits who you are?",
+  "example_answer": "People pleasing."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What risk did you take that helped you grow?",
+  "example_answer": "Speaking up."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What risk do you wish you handled differently?",
+  "example_answer": "Overloading my schedule."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What responsibility do you now fully own?",
+  "example_answer": "Managing deadlines."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What responsibility still feels heavy?",
+  "example_answer": "Financial planning."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What responsibility do you feel ready to take on next?",
+  "example_answer": "Living independently."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What responsibility do you want to ease into slowly?",
+  "example_answer": "Full financial independence."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does readiness mean to you right now?",
+  "example_answer": "Feeling capable even when unsure."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What makes you feel unready?",
+  "example_answer": "Big unknowns."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What skill makes you feel prepared for adulthood?",
+  "example_answer": "Problem solving."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What skill do you still want support with?",
+  "example_answer": "Long-term planning."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What adult task feels approachable now?",
+  "example_answer": "Scheduling appointments."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What adult task still feels intimidating?",
+  "example_answer": "Managing bills."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What system do you want to understand better?",
+  "example_answer": "Banking."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What system do you want guidance navigating?",
+  "example_answer": "Insurance."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What everyday task do you feel confident doing alone?",
+  "example_answer": "Managing my calendar."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What everyday task do you still rely on others for?",
+  "example_answer": "Financial decisions."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does independence look like for you after graduation?",
+  "example_answer": "Making my own choices."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does independence not mean to you?",
+  "example_answer": "Doing everything alone."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of support do you expect moving forward?",
+  "example_answer": "Guidance when needed."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of support do you want less of?",
+  "example_answer": "Constant reminders."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of help do you want to ask for more easily?",
+  "example_answer": "Advice."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of help do you want to offer others?",
+  "example_answer": "Encouragement."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What relationship do you want to protect after graduation?",
+  "example_answer": "Family connections."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What relationship dynamic do you want to change?",
+  "example_answer": "Setting clearer boundaries."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What relationship skill feels more important now?",
+  "example_answer": "Honest communication."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What relationship habit do you want to improve?",
+  "example_answer": "Checking in consistently."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does success mean to you at this stage?",
+  "example_answer": "Moving forward with intention."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does success no longer mean to you?",
+  "example_answer": "Perfect results."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What outcome matters more than approval?",
+  "example_answer": "Self respect."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What outcome feels worth waiting for?",
+  "example_answer": "The right path."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What outcome feels urgent?",
+  "example_answer": "Financial stability."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What outcome feels flexible?",
+  "example_answer": "Exact career title."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does balance look like in your next phase?",
+  "example_answer": "Work with rest."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does imbalance look like to you?",
+  "example_answer": "Constant exhaustion."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What pace of life do you want after graduation?",
+  "example_answer": "Steady."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What pace of life do you want to avoid?",
+  "example_answer": "Burnout."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What financial priority feels most real now?",
+  "example_answer": "Saving."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What financial habit do you want to establish early?",
+  "example_answer": "Tracking spending."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What financial mistake do you want to avoid?",
+  "example_answer": "Unnecessary debt."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What financial concept do you want explained clearly?",
+  "example_answer": "Credit."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What purchase feels necessary in the near future?",
+  "example_answer": "Transportation."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What purchase feels optional?",
+  "example_answer": "Luxury items."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What would financial peace look like for you?",
+  "example_answer": "Not stressing daily."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What would financial stress affect most?",
+  "example_answer": "My mental health."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of work schedule sounds sustainable to you?",
+  "example_answer": "Predictable hours."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of work schedule would drain you?",
+  "example_answer": "Always on call."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What work value do you want to protect long term?",
+  "example_answer": "Respect."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What work behavior do you want to avoid adopting?",
+  "example_answer": "Overworking."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What work environment helps you stay motivated?",
+  "example_answer": "Supportive teams."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What work environment would push you away?",
+  "example_answer": "Constant pressure."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What role do you see yourself stepping into next?",
+  "example_answer": "Learner."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What role do you feel done playing?",
+  "example_answer": "Passive follower."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What skill will matter more after graduation?",
+  "example_answer": "Communication."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What skill do you want to keep sharpening?",
+  "example_answer": "Organization."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What personal value do you want your choices to reflect?",
+  "example_answer": "Integrity."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What personal value do you want to strengthen?",
+  "example_answer": "Confidence."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What pressure do you expect to increase after graduation?",
+  "example_answer": "Financial pressure."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What pressure do you expect to decrease?",
+  "example_answer": "Academic comparison."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What expectation do you place on yourself now?",
+  "example_answer": "Responsibility."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What expectation do you want to release?",
+  "example_answer": "Perfection."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What fear feels quieter than before?",
+  "example_answer": "Failure."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What fear feels louder now?",
+  "example_answer": "Uncertainty."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What belief helps you move forward?",
+  "example_answer": "I will figure it out."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What belief holds you back at times?",
+  "example_answer": "I must get it right."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What lesson from high school will guide you next?",
+  "example_answer": "Preparation matters."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What lesson do you want to leave behind?",
+  "example_answer": "Comparison."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What part of yourself feels stronger now?",
+  "example_answer": "Self trust."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What part of yourself needs care?",
+  "example_answer": "Stress management."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What habit helped you survive tough periods?",
+  "example_answer": "Planning ahead."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What habit hurt you more than helped?",
+  "example_answer": "Overcommitting."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What do you want future you to remember about this year?",
+  "example_answer": "Growth."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What do you want future you to forgive you for?",
+  "example_answer": "Being unsure."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What would future you thank you for doing now?",
+  "example_answer": "Preparing early."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What would future you warn you about?",
+  "example_answer": "Ignoring burnout."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of adult do you feel you are becoming?",
+  "example_answer": "More intentional."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What kind of adult do you want to keep becoming?",
+  "example_answer": "Balanced."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does responsibility mean to you now?",
+  "example_answer": "Owning outcomes."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does freedom mean to you now?",
+  "example_answer": "Choice with accountability."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does security mean to you now?",
+  "example_answer": "Stability."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does fulfillment mean to you now?",
+  "example_answer": "Purpose."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What part of life do you want to simplify next?",
+  "example_answer": "Scheduling."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What part of life do you want to build slowly?",
+  "example_answer": "Career direction."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What transition excites you the most?",
+  "example_answer": "New opportunities."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What transition worries you most?",
+  "example_answer": "Financial independence."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What support system matters most going forward?",
+  "example_answer": "Trusted people."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What support system do you want to strengthen?",
+  "example_answer": "Mentorship."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What do you want to carry with you from high school?",
+  "example_answer": "Discipline."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What do you want to consciously leave behind?",
+  "example_answer": "Self doubt."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What personal rule do you want to live by?",
+  "example_answer": "Protect my health."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What personal rule do you want to relax?",
+  "example_answer": "Always being busy."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does progress look like after graduation?",
+  "example_answer": "Consistency."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does stagnation look like to you?",
+  "example_answer": "Avoidance."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What makes you feel grounded when things feel uncertain?",
+  "example_answer": "Routine."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What makes uncertainty harder to handle?",
+  "example_answer": "Lack of information."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What decision are you mentally preparing for now?",
+  "example_answer": "Post secondary path."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What decision do you want guidance with?",
+  "example_answer": "Financial planning."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What does adulthood feel like from where you stand?",
+  "example_answer": "Close."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What about adulthood feels misunderstood?",
+  "example_answer": "How much learning continues."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What do you want programs like WISE to help with next?",
+  "example_answer": "Real life guidance."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What type of resource do you expect to use more?",
+  "example_answer": "Financial tools."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What everyday service do you expect to rely on?",
+  "example_answer": "Banking."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What everyday service do you want simplified?",
+  "example_answer": "Insurance."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What would make the next year feel successful?",
+  "example_answer": "Stability."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What would make the next year feel overwhelming?",
+  "example_answer": "No direction."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What do you feel ready to step into now?",
+  "example_answer": "Responsibility."
+},
+{
+  "age": "17",
+  "type": "open_ended",
+  "question": "What do you want support stepping into next?",
+  "example_answer": "Independence."
+}
+]
