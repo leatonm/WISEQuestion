@@ -1,0 +1,722 @@
+[
+  {
+  "age": "15",
+  "type": "open_ended",
+  "question": "What time do you usually wake up on school days?",
+  "example_answer": "Around 7:00 because I like a slow morning."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What time do you usually go to bed?",
+  "example_answer": "Around 11:30 even though I should sleep earlier."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What part of your day feels rushed?",
+  "example_answer": "Mornings because I run late."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What part of your day feels slow?",
+  "example_answer": "Late afternoon because I feel tired."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What daily routine helps you stay on track?",
+  "example_answer": "Packing my bag the night before."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What daily routine do you forget often?",
+  "example_answer": "Drinking enough water."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What habit feels hardest to keep?",
+  "example_answer": "Doing homework early."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What habit feels easy to keep?",
+  "example_answer": "Checking my phone."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What routine makes you feel productive?",
+  "example_answer": "Making a short to-do list."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What routine feels unnecessary to you?",
+  "example_answer": "Rechecking things multiple times."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What responsibility do you handle well?",
+  "example_answer": "Being on time for school."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What responsibility feels overwhelming?",
+  "example_answer": "Balancing school and activities."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What chore do you dislike most?",
+  "example_answer": "Cleaning my room."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What chore do you not mind doing?",
+  "example_answer": "Doing dishes with music."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What task do you usually avoid?",
+  "example_answer": "Long assignments."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What task do you finish quickly?",
+  "example_answer": "Short written work."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you procrastinate?",
+  "example_answer": "Feeling unsure where to start."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you start tasks faster?",
+  "example_answer": "Breaking them into steps."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What responsibility makes you feel grown up?",
+  "example_answer": "Managing my own schedule."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What responsibility do you want more help with?",
+  "example_answer": "Planning my time."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "How do you usually spend your allowance or money?",
+  "example_answer": "On food with friends."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you save money for?",
+  "example_answer": "Clothes I really want."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you spend money on without thinking?",
+  "example_answer": "Snacks."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What purchase usually feels worth it?",
+  "example_answer": "Comfortable shoes."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What purchase do you regret sometimes?",
+  "example_answer": "Random online buys."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you want to learn about money?",
+  "example_answer": "How budgeting works."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What feels confusing about money?",
+  "example_answer": "Where it all goes."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What feels stressful about money?",
+  "example_answer": "Not having enough."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What feels empowering about money?",
+  "example_answer": "Choosing how to spend it."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What would you like help paying for?",
+  "example_answer": "School supplies."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision do you make often on your own?",
+  "example_answer": "How to spend my free time."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision do you still rely on adults for?",
+  "example_answer": "Big purchases."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision feels hard for you?",
+  "example_answer": "Choosing priorities."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision feels easy for you?",
+  "example_answer": "Saying no to things I dislike."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you make good decisions?",
+  "example_answer": "Thinking things through."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes decisions harder?",
+  "example_answer": "Pressure from others."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision do you avoid making?",
+  "example_answer": "Long-term plans."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision makes you feel confident?",
+  "example_answer": "Standing up for myself."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision do you overthink?",
+  "example_answer": "Small social choices."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What decision do you want to improve at?",
+  "example_answer": "Time management choices."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What does independence mean to you right now?",
+  "example_answer": "Doing things without reminders."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What part of independence excites you?",
+  "example_answer": "More freedom."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What part of independence worries you?",
+  "example_answer": "More responsibility."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What independence skill do you want to build?",
+  "example_answer": "Managing my schedule."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel trusted?",
+  "example_answer": "Being given responsibility."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel restricted?",
+  "example_answer": "Too many rules."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel capable?",
+  "example_answer": "Completing hard tasks."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you doubt yourself?",
+  "example_answer": "Comparing myself to others."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What independence skill do you already have?",
+  "example_answer": "Organizing my day."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What independence skill do you need support with?",
+  "example_answer": "Long-term planning."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What kind of space helps you work best?",
+  "example_answer": "Quiet and clean."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What kind of space distracts you?",
+  "example_answer": "Loud environments."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes a space feel stressful?",
+  "example_answer": "Too much clutter."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes a space feel motivating?",
+  "example_answer": "Natural light."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you stay focused longer?",
+  "example_answer": "Short breaks."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What breaks your focus quickly?",
+  "example_answer": "Notifications."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What time of day do you work best?",
+  "example_answer": "Late afternoon."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What time of day feels hardest?",
+  "example_answer": "Early morning."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you recover focus?",
+  "example_answer": "Standing up and moving."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What environment helps you think clearly?",
+  "example_answer": "Quiet rooms."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What type of stress do you feel most?",
+  "example_answer": "School deadlines."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What signals you are getting overwhelmed?",
+  "example_answer": "I shut down."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you reduce stress?",
+  "example_answer": "Listening to music."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What stress do you want help managing?",
+  "example_answer": "Academic pressure."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel mentally tired?",
+  "example_answer": "Long school days."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you recharge mentally?",
+  "example_answer": "Being alone for a bit."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel emotionally supported?",
+  "example_answer": "Someone listening."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes emotions harder to handle?",
+  "example_answer": "Being rushed."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you express how you feel?",
+  "example_answer": "Writing things down."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What emotion do you want to understand better?",
+  "example_answer": "Anxiety."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What kind of feedback helps you most?",
+  "example_answer": "Clear and honest."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What kind of feedback feels discouraging?",
+  "example_answer": "Vague criticism."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "How do you prefer to receive guidance?",
+  "example_answer": "Step by step."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes advice helpful to you?",
+  "example_answer": "When it feels realistic."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes advice annoying?",
+  "example_answer": "When it feels forced."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "Who gives advice you trust?",
+  "example_answer": "People who listen first."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What motivates you to improve?",
+  "example_answer": "Seeing progress."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you shut down from feedback?",
+  "example_answer": "Harsh tone."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What kind of encouragement works best?",
+  "example_answer": "Quiet support."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What kind of encouragement does not help?",
+  "example_answer": "Pressure."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What skill feels more important now than last year?",
+  "example_answer": "Time management."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What interest has grown recently?",
+  "example_answer": "Fitness."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What interest has faded?",
+  "example_answer": "Certain video games."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What topic do you want to learn more about?",
+  "example_answer": "Personal finance."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What topic feels confusing?",
+  "example_answer": "Career paths."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What topic feels boring now?",
+  "example_answer": "Subjects I do not relate to."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What topic feels more relevant to real life?",
+  "example_answer": "Health."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What skill do you use more often now?",
+  "example_answer": "Planning ahead."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What skill feels underdeveloped?",
+  "example_answer": "Public speaking."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What skill do you want to practice this year?",
+  "example_answer": "Organization."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What does success mean to you right now?",
+  "example_answer": "Staying balanced."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What does failure teach you?",
+  "example_answer": "What to change."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What achievement matters most to you lately?",
+  "example_answer": "Passing a hard class."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What mistake taught you something important?",
+  "example_answer": "Waiting too long to start work."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What goal feels realistic this year?",
+  "example_answer": "Better grades."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What goal feels intimidating?",
+  "example_answer": "Planning the future."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What motivates you to keep going?",
+  "example_answer": "Small wins."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you lose momentum?",
+  "example_answer": "Burnout."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What helps you reset goals?",
+  "example_answer": "Reflecting."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What goal do you want help reaching?",
+  "example_answer": "Staying organized."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you want more control over?",
+  "example_answer": "My schedule."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you want less pressure about?",
+  "example_answer": "Grades."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What part of life feels complicated?",
+  "example_answer": "Balancing everything."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What part of life feels simple?",
+  "example_answer": "Hanging out with friends."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel prepared?",
+  "example_answer": "Having a plan."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel unprepared?",
+  "example_answer": "Last-minute changes."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you want adults to understand better now?",
+  "example_answer": "How busy school feels."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you want more independence in?",
+  "example_answer": "Managing my time."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you want guidance with this year?",
+  "example_answer": "Planning ahead."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What support would help you most right now?",
+  "example_answer": "Clear expectations."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you enjoy having control over?",
+  "example_answer": "My daily routine."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you dislike being controlled about?",
+  "example_answer": "Small choices."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What responsibility do you want to earn?",
+  "example_answer": "More trust."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What responsibility do you want less of?",
+  "example_answer": "Too many commitments."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What choice would make life easier right now?",
+  "example_answer": "Better organization."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What change would improve your days?",
+  "example_answer": "More sleep."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes you feel confident about growing up?",
+  "example_answer": "Learning new skills."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What makes growing up feel stressful?",
+  "example_answer": "Expectations."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you feel ready for now?",
+  "example_answer": "More responsibility."
+},
+{
+  "age": "15",
+  "type": "open_ended",
+  "question": "What do you feel not ready for yet?",
+  "example_answer": "Big life decisions."
+}
+]
