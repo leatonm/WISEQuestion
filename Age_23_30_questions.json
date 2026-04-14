@@ -1,0 +1,722 @@
+[
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What does a normal workday look like for you now?",
+    "example_answer": "Work during the day, gym after, quiet evenings."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What part of your day feels most productive?",
+    "example_answer": "Early mornings before messages start."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What part of your day feels wasted?",
+    "example_answer": "Long commutes."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What routine anchors your weekdays?",
+    "example_answer": "Morning coffee and planning."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What routine falls apart easily?",
+    "example_answer": "Meal prep."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What habit saves you time each week?",
+    "example_answer": "Batch cooking."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What habit costs you time without noticing?",
+    "example_answer": "Scrolling at night."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What habit saves you money?",
+    "example_answer": "Packing lunches."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What habit costs you money?",
+    "example_answer": "Eating out too often."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What routine feels non-negotiable now?",
+    "example_answer": "Sleep."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What defines career progress for you right now?",
+    "example_answer": "Skill growth."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What career move feels overdue?",
+    "example_answer": "Asking for a raise."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What career move feels risky?",
+    "example_answer": "Changing roles."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What career move feels safe?",
+    "example_answer": "Deepening current skills."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What skill gives you leverage at work?",
+    "example_answer": "Communication."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What skill limits you right now?",
+    "example_answer": "Negotiation."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What work outcome matters most to you?",
+    "example_answer": "Stability."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What work outcome matters less now?",
+    "example_answer": "Titles."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What work boundary do you protect?",
+    "example_answer": "Evenings."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What work boundary feels hard to enforce?",
+    "example_answer": "Saying no to extra tasks."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What does financial stability mean at this stage?",
+    "example_answer": "Bills paid with margin."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What monthly cost feels most stressful?",
+    "example_answer": "Rent."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What monthly cost feels predictable?",
+    "example_answer": "Phone bill."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What expense do you track closely?",
+    "example_answer": "Groceries."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What expense surprises you often?",
+    "example_answer": "Car costs."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What financial tool do you rely on most?",
+    "example_answer": "Banking app."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What financial topic do you want clearer answers on?",
+    "example_answer": "Taxes."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What financial decision do you delay too long?",
+    "example_answer": "Investing."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What financial decision feels confident now?",
+    "example_answer": "Budgeting basics."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What money habit do you want automated?",
+    "example_answer": "Savings transfers."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What housing situation fits your life right now?",
+    "example_answer": "Renting close to work."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What housing upgrade matters most to you?",
+    "example_answer": "More space."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What housing cost worries you long term?",
+    "example_answer": "Rising rent."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What housing factor matters most, price, location, or space?",
+    "example_answer": "Location."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What home feature improves daily life?",
+    "example_answer": "Natural light."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What home feature feels unnecessary?",
+    "example_answer": "Extra rooms."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What home maintenance task surprises you?",
+    "example_answer": "Repairs adding up."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What home service do you value most?",
+    "example_answer": "Reliable internet."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What housing decision do you want help navigating?",
+    "example_answer": "Buying versus renting."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What housing goal feels realistic next?",
+    "example_answer": "Better rental."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What insurance type feels most relevant now?",
+    "example_answer": "Health insurance."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What insurance topic feels confusing?",
+    "example_answer": "Coverage details."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What insurance cost feels hard to justify?",
+    "example_answer": "High premiums."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What insurance benefit feels reassuring?",
+    "example_answer": "Emergency coverage."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What protection matters more now than before?",
+    "example_answer": "Income protection."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What risk feels unacceptable now?",
+    "example_answer": "No coverage."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What adult service do you rely on monthly?",
+    "example_answer": "Banking."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What adult service feels overly complex?",
+    "example_answer": "Insurance portals."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What adult service feels worth paying for?",
+    "example_answer": "Accounting help."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What adult service do you want simplified?",
+    "example_answer": "Benefits enrollment."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What brands earn your loyalty over time?",
+    "example_answer": "Consistent ones."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What breaks your trust with a brand?",
+    "example_answer": "Hidden fees."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What makes you recommend a service?",
+    "example_answer": "Reliability."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What makes you stop using a service?",
+    "example_answer": "Poor support."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What discount types catch your attention now?",
+    "example_answer": "Long-term savings."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What offers feel like noise?",
+    "example_answer": "Flash sales."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What subscription do you review yearly?",
+    "example_answer": "Streaming."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What subscription do you forget you have?",
+    "example_answer": "Old apps."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What service bundle feels appealing?",
+    "example_answer": "Phone and internet."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What service choice do you research most?",
+    "example_answer": "Insurance."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What lifestyle choice supports your health best?",
+    "example_answer": "Regular sleep."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What lifestyle choice hurts your energy?",
+    "example_answer": "Late nights."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What daily choice affects your mood most?",
+    "example_answer": "Exercise."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What daily choice affects your stress most?",
+    "example_answer": "Workload."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What habit helps you recover from busy weeks?",
+    "example_answer": "Quiet weekends."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What habit prevents burnout?",
+    "example_answer": "Scheduling rest."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What habit pushes you toward burnout?",
+    "example_answer": "Overcommitting."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What lifestyle change feels overdue?",
+    "example_answer": "Better nutrition."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What lifestyle change feels unrealistic now?",
+    "example_answer": "Extreme schedules."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What balance do you aim for weekly?",
+    "example_answer": "Work and rest."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What relationship priority shifted recently?",
+    "example_answer": "Quality over quantity."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What relationship boundary matters more now?",
+    "example_answer": "Time boundaries."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What relationship habit do you want to strengthen?",
+    "example_answer": "Consistent check-ins."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What relationship habit causes friction?",
+    "example_answer": "Avoiding tough talks."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What social energy limit did you learn?",
+    "example_answer": "Fewer plans per week."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What support do you rely on most?",
+    "example_answer": "Close friends."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What support do you want easier access to?",
+    "example_answer": "Professional advice."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What responsibility do you feel fully accountable for?",
+    "example_answer": "Finances."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What responsibility still feels heavy?",
+    "example_answer": "Long-term planning."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What responsibility feels empowering?",
+    "example_answer": "Independence."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What does success feel like right now?",
+    "example_answer": "Stability."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What does success not require anymore?",
+    "example_answer": "Constant hustle."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What progress marker matters most?",
+    "example_answer": "Consistency."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What progress marker feels misleading?",
+    "example_answer": "Titles."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What fear feels quieter now?",
+    "example_answer": "Failure."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What fear feels louder?",
+    "example_answer": "Financial uncertainty."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What belief helps you make decisions?",
+    "example_answer": "Long-term thinking."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What belief slows decisions down?",
+    "example_answer": "Perfection."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What lesson keeps repeating in your life?",
+    "example_answer": "Rest matters."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What lesson finally stuck?",
+    "example_answer": "Budgeting early."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What future cost do you plan for most?",
+    "example_answer": "Housing."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What future cost feels abstract?",
+    "example_answer": "Retirement."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What long-term service do you expect to rely on?",
+    "example_answer": "Financial planning."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What long-term service do you want transparency from?",
+    "example_answer": "Insurance."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What system do you want to master next?",
+    "example_answer": "Taxes."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What system do you want guidance navigating?",
+    "example_answer": "Investments."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What purchase requires the most thought now?",
+    "example_answer": "Vehicles."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What purchase feels easier with age?",
+    "example_answer": "Essentials."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What decision feels more values-based now?",
+    "example_answer": "Where I work."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What decision feels more financial now?",
+    "example_answer": "Where I live."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What pace of life feels sustainable?",
+    "example_answer": "Predictable weeks."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What pace of life feels risky?",
+    "example_answer": "Constant overtime."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What part of life do you want to streamline?",
+    "example_answer": "Finances."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What part of life do you want to invest in?",
+    "example_answer": "Health."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What does peace of mind look like for you?",
+    "example_answer": "Fewer surprises."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What disrupts peace of mind fastest?",
+    "example_answer": "Money stress."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What do you expect tools like WISE to help with now?",
+    "example_answer": "Smart decisions."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What type of guidance feels most useful today?",
+    "example_answer": "Clear steps."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What everyday choice do you want optimized?",
+    "example_answer": "Spending."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What everyday choice do you want automated?",
+    "example_answer": "Saving."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What long-term habit feels essential now?",
+    "example_answer": "Planning."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What long-term habit feels harmful?",
+    "example_answer": "Avoidance."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What adult identity feels accurate now?",
+    "example_answer": "Responsible learner."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What adult identity feels incomplete?",
+    "example_answer": "Fully settled."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What gives you confidence moving forward?",
+    "example_answer": "Experience."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What creates hesitation moving forward?",
+    "example_answer": "Uncertainty."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What do you feel fully capable handling?",
+    "example_answer": "Daily life."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What do you still want structured help with?",
+    "example_answer": "Long-term planning."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What would make the next five years feel successful?",
+    "example_answer": "Stability and growth."
+  },
+  {
+    "age": "23_30",
+    "type": "open_ended",
+    "question": "What would make the next five years feel overwhelming?",
+    "example_answer": "Financial instability."
+  }
+]
